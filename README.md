@@ -1,4 +1,4 @@
-# 🐼 Pandas Data Analysis
+# 🐼 Pandas Data Analysis Portfolio
 
 <p align="center">
 
@@ -15,76 +15,79 @@
 
 This repository contains **Pandas** projects completed during my **Data Technician Bootcamp** and continued through self-study.
 
-The exercises focus on analysing real-world datasets using **Python** and **Pandas**, covering data cleaning, transformation, filtering, indexing, joins, and exploratory data analysis in **Google Colab**.
+The projects focus on analysing **retail and sales datasets** using Python and Pandas to clean, transform, manipulate, and visualise data. Through these exercises, I developed practical skills in exploring datasets, generating business insights, and preparing data for further analysis.
 
 ---
 
 # 🚀 Skills Demonstrated
 
-### 🐼 Pandas
+## 🐼 Data Analysis with Pandas
 
-* DataFrames
-* Series
-* Data Import
-* Data Export
+* Creating and working with **DataFrames**
+* Filtering and querying data
+* Subsetting data using **`.loc[]`** and **`.iloc[]`**
+* Selecting rows and columns
+* Data exploration and inspection
 
-### 🧹 Data Cleaning
+---
 
-* Handling Missing Values
-* Renaming Columns
-* Data Type Conversion
-* Removing Duplicates
+## 🧹 Data Cleaning & Transformation
 
-### 📊 Data Analysis
+* Handling missing values with **`dropna()`**
+* Filling missing values using **`fillna()`**
+* Renaming columns
+* Changing data types
+* Removing duplicates
+* Preparing datasets for analysis
 
-* Filtering
-* Sorting
-* Aggregation
-* GroupBy
-* Summary Statistics
+---
 
-### 🔗 Data Manipulation
+## 📊 Data Manipulation
 
-* Indexing
-* Selecting Columns
-* Selecting Rows
-* Merging DataFrames
-* Joining DataFrames
+* Grouping data with **`groupby()`**
+* Sorting using **`sort_values()`**
+* Aggregating data
+* Summary statistics
+* Filtering business data
+* Feature selection
 
-### 📈 Data Exploration
+---
 
-* Dataset Inspection
-* Feature Analysis
-* Business Insights
-* Exploratory Data Analysis (EDA)
+## 📈 Data Visualisation
+
+* Built-in Pandas plotting
+* **Matplotlib** charts
+* Bar Charts
+* Line Charts
+* Histograms
+* Scatter Plots
+* Data trend analysis
 
 ---
 
 # 📂 Projects Included
 
-## 🐼 Day 4 – Task 1
+## 🐼 Task 1 – Data Exploration
 
-Created and manipulated **Pandas DataFrames**, explored datasets, and practised selecting, filtering, and analysing data.
-
----
-
-## 🧹 Day 4 – Task 2
-
-Loaded datasets into Pandas, cleaned and transformed the data, handled missing values, and prepared the data for analysis.
+Explored retail and sales datasets using Pandas DataFrames while practising filtering, selecting, and subsetting data with **`.loc[]`** and **`.iloc[]`**.
 
 ---
 
-## 📊 Day 4 – Task 3
+## 🧹 Task 2 – Data Cleaning & Transformation
 
-Applied advanced Pandas techniques including indexing, joins, grouping, and exploratory data analysis to generate meaningful insights.
+Cleaned and prepared datasets by handling missing values, converting data types, sorting records, and transforming raw data into an analysis-ready format.
+
+---
+
+## 📊 Task 3 – Data Analysis & Visualisation
+
+Applied grouping, aggregation, filtering, and plotting techniques to analyse retail and sales data, identify trends, and communicate insights through charts.
 
 ---
 
 # 📓 Google Colab Notebooks
 
-## 🐼 Task 1 – Pandas DataFrames
-
-Working with DataFrames, Series, indexing, and basic data analysis.
+## 🐼 Task 1 – Data Exploration
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vtaciGNlZEL5GbtpC2vZ49nTvV-ohwtx)
 
@@ -92,44 +95,39 @@ Working with DataFrames, Series, indexing, and basic data analysis.
 
 ## 🧹 Task 2 – Data Cleaning & Transformation
 
-Cleaning datasets, handling missing values, filtering, sorting, and preparing data for analysis.
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IbqZB8Rh6JGcgMITtcTCj4HgB7WX6Uz1)
 
 ---
 
-## 📊 Task 3 – Advanced Data Analysis
-
-Using indexing, joins, grouping, aggregation, and exploratory data analysis with Pandas.
+## 📊 Task 3 – Data Analysis & Visualisation
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dGe4KqSEVT73xVDc5SohgnHrqsI4H4y2)
 
 ---
 
-# 📸 Screenshots
+## 📸 Project Screenshots
 
-<img width="692" height="391" alt="image" src="https://github.com/user-attachments/assets/e89c148e-03f4-429c-960d-c1fd701d2558" />
-
-
-<img width="832" height="277" alt="image" src="https://github.com/user-attachments/assets/1037e796-3161-4536-a030-34cb8646aa56" />
-
-
-<img width="737" height="437" alt="image" src="https://github.com/user-attachments/assets/2195f6dc-d366-4fba-9c23-553caf675cd0" />
-
-
+<img width="766" height="450" alt="image" src="https://github.com/user-attachments/assets/886b0150-7336-4317-b18f-812e7f1fb737" />
 
 ---
 
+<img width="831" height="290" alt="image" src="https://github.com/user-attachments/assets/b8e353ea-411f-4715-805e-5e35282236f2" />
+
+---
+
+<img width="682" height="378" alt="image" src="https://github.com/user-attachments/assets/3a97d79e-2132-4eb0-ad40-b9bbd1dfcc05" />
+
+
 # 🎯 Learning Outcomes
 
-Through these projects I developed practical experience in:
+Through these projects I gained practical experience in:
 
-* 🐼 Working with Pandas DataFrames
-* 🧹 Cleaning and transforming datasets
-* 📊 Exploring and analysing real-world data
-* 🔗 Combining datasets using joins
-* 📈 Creating meaningful summaries and insights
-* 💡 Preparing data for further visualisation and reporting
+* 🐼 Exploring datasets with Pandas
+* 🧹 Cleaning and transforming raw data
+* 📊 Analysing retail and sales data
+* 🔍 Filtering and subsetting data efficiently
+* 📈 Creating visualisations with Pandas and Matplotlib
+* 💡 Turning raw data into meaningful business insights
 
 ---
 
@@ -138,3 +136,5 @@ Through these projects I developed practical experience in:
 **Driheli Nunes**
 
 **Data Technician Bootcamp Graduate** | Continuously developing my skills through self-study and hands-on projects in **Python, Pandas, SQL, Power BI, Tableau, Excel, and Azure.**
+
+⭐ Feel free to explore my repositories and follow my data analytics journey!
